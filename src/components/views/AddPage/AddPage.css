@@ -1,0 +1,18 @@
+.form_class{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #f8f9fa;
+  padding: 50px;
+  box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.18);
+  
+}
+
+.element{
+  margin-bottom: 20px;
+}

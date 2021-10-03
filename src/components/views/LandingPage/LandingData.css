@@ -1,0 +1,26 @@
+.landing_data{
+
+      margin-right: 23px;
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #f1f3f5;
+
+        justify-content: center;
+        align-items: center;
+        background-color: #edf2ff;
+        margin-top: 20px;
+        box-shadow: 5px 9px 15px 4px rgba(0,0,0,0.14);
+        border-radius:20px;
+        font-family: Mulish;
+        transition: 0.3s;
+        background-color: black;
+}
+
+.landing_data:hover{
+
+  opacity: 0.8;
+ 
+  transform: scale(1.05);
+  
+  
+}
